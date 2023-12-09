@@ -1,5 +1,5 @@
 # SRS
-School Record System Demo
+School Record System Demo.
 In the java program, i only use java.util.
 in this program, it can not identify the same of capaital letter and small letter. For example, if the username is s1234567, and you input S1234567, then the program can not indentify it and display username not found or the subject name is Math and you input math, then the program will display error.
 
