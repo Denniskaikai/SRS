@@ -1,4 +1,4 @@
-package Schoolrecordsystem;
+//package Schoolrecordsystem;
 import java.util.*;
 
 public class Demo {
